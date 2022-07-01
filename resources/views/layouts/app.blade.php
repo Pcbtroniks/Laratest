@@ -13,6 +13,8 @@
         <!-- Scripts -->
         <link rel="stylesheet" href="{{asset('css/app.css')}}">
         <script defer src="{{asset('js/app.js')}}"></script>
+
+        <link rel="stylesheet" href="{{asset('vendor/swiper-bundle-min.css')}}">
     </head>
     <body class="font-sans antialiased">
         <div class="min-h-screen bg-gray-100">
